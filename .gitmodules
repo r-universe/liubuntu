@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "SeqSQC"]
+	path = SeqSQC
+	url = https://github.com/liubuntu/seqsqc
+	shallow = true
+	registered = true
 [submodule "VCFArray"]
 	path = VCFArray
 	url = https://github.com/liubuntu/vcfarray
